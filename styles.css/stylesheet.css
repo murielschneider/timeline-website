@@ -6,7 +6,7 @@
 .topnav a {
   float: left;
   color:#003262;
-  text-align: justify;
+  text-align: center;
   padding: 18px 20px;
   padding-right: 99px;
   text-decoration: none;
@@ -23,6 +23,7 @@
 .topnav a:hover {
   background-color:#3B7EA1;
   color:white;
+  text-decoration: underline;
 }
 
 .h1 {
@@ -45,7 +46,7 @@
   margin-left: auto;
   margin-right: auto;
   width: 10%;
-  padding-top: 60px;
+  padding-top: 50px;
   padding-bottom: 35px;
 }
 
@@ -53,6 +54,7 @@
     text-align: center;
     background-color:#FDB515;
     width: 100%;
+    height: 73px;
     position: fixed;
     left: 0;
    bottom: 0;
@@ -123,3 +125,80 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
+
+
+
+.caption{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  color:#46535E; 
+  font-style: italic;
+  font-weight: 300;
+  padding-left: 35px;
+  padding-right: 35px;
+  text-align: center;
+}
+
+
+
+  .facebook{
+    padding:0px;
+    width: 40px;
+    text-decoration: none;
+    background-image: url(https://www.facebook.com/UCBerkeleyExtension/);
+  }
+
+  .facebook:hover{
+    opacity: 0.7;
+  }
+
+  .instagram{
+    padding:0px;
+    width: 40px;
+    text-decoration: none;
+  }
+
+  .instagram:hover{
+    opacity: 0.7;
+  }
+
+  .twitter{
+    padding:0px;
+    width: 40px;
+    text-decoration: none;
+  }
+
+  .twitter:hover{
+    opacity: 0.7;
+  }
+
+  .youtube{
+    padding:0px;
+    width: 40px;
+    text-decoration: none;
+  }
+
+  .youtube:hover{
+    opacity: 0.7;
+  }
+
+  .linkedin{
+    padding:0px;
+    width: 40px;
+    text-decoration: none;
+  }
+
+  .linkedin:hover{
+    opacity: 0.7;
+  }
+
+  .extension-logo{
+    width: 250px;
+    height: auto; 
+    padding-top: 20px;
+    padding-right: 30px;
+    }
+
+    .extension-logo:hover{
+      opacity: 0.7;
+    }

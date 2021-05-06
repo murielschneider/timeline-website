@@ -4,11 +4,10 @@
 }
 
 .topnav a {
-  float: left;
+  float: center;
   color:#003262;
   text-align: center;
-  padding: 18px 20px;
-  padding-right: 99px;
+  padding: 20px 22px;
   text-decoration: none;
   font-size: 15px;
   font-family: 'Open Sans', sans-serif;
@@ -79,13 +78,13 @@
 }
 
 .col {
-  background:lightyellow;
+  background:white;
 }
 
 .column-box {
   width:100%;
   height:100px;
-  background: green;
+  background:white;
 }
 
 .container {
@@ -145,7 +144,6 @@ body {
     padding:0px;
     width: 40px;
     text-decoration: none;
-    background-image: url(https://www.facebook.com/UCBerkeleyExtension/);
   }
 
   .facebook:hover{
@@ -202,3 +200,21 @@ body {
     .extension-logo:hover{
       opacity: 0.7;
     }
+
+    .container{
+      background-color:white ;
+    }
+
+ .column-box{
+   color: white;
+ }
+
+ .div-1{
+   background: white;
+ }
+ 
+
+
+ a {
+  text-decoration: none;
+}

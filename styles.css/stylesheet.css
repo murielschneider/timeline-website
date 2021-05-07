@@ -141,7 +141,7 @@ body {
 
 
   .facebook{
-    padding:0px;
+    padding-top: 20px;
     width: 40px;
     text-decoration: none;
   }
@@ -151,7 +151,7 @@ body {
   }
 
   .instagram{
-    padding:0px;
+    padding-top: 20px;
     width: 40px;
     text-decoration: none;
   }
@@ -161,7 +161,7 @@ body {
   }
 
   .twitter{
-    padding:0px;
+    padding-top: 20px;
     width: 40px;
     text-decoration: none;
   }
@@ -171,7 +171,7 @@ body {
   }
 
   .youtube{
-    padding:0px;
+    padding-top: 20px;
     width: 40px;
     text-decoration: none;
   }
@@ -181,7 +181,7 @@ body {
   }
 
   .linkedin{
-    padding:0px;
+    padding-top: 20px;
     width: 40px;
     text-decoration: none;
   }
